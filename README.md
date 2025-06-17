@@ -92,3 +92,5 @@ This **Financial Growth Chatbot** is a Python-based application that provides in
 ## 📝 Note
 
 This chatbot is designed as a fully **integrated** Python application. All helper functions are embedded within the main script to eliminate external dependencies. You can extend its functionality by adding new columns to the CSV file or enhancing the parsing logic for better natural language understanding.
+
+##Author: Abhinav Kumar Jha
